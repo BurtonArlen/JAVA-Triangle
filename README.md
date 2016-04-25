@@ -1,8 +1,3 @@
-# java_template
-
-
-
-#### By _**Paul Hess**_
 
 ## Description
 
@@ -50,4 +45,4 @@ _To contact, leave a comment on Github._
 
 *MIT License*
 
-Copyright (c) 2016 **_Paul Hess_**
+Copyright (c) 2016 **_Paul Hess_** and **_Arlen Burton_**
